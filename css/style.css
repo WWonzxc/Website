@@ -139,7 +139,9 @@ body{
     flex-direction: column;
     margin-top: -150px;
 }
-
+.item_m{
+    margin-bottom: 50px;
+}
 /* Дальше about */
 
 .about{
@@ -189,7 +191,7 @@ body{
     background: url(../img/intr2.png) no-repeat center;
     background-size: cover;
     padding-top: 255px;
-    padding-bottom: 1400px;
+    padding-bottom: 1200px;
 }
 .portfolio_s{
     font-weight: 700;
@@ -214,11 +216,11 @@ body{
 }
 .timeline_cc--left{
         text-align: right;
-        padding-right: 25px;
+        padding-right: 40px;
     }
 .timeline_cc--right{
         text-align: left;
-        padding-left: 25px;
+        padding-left: 10px;
     }
 .timeline_title{
     margin-bottom: 42px;
@@ -232,9 +234,16 @@ body{
 .tame_lane_d{
     margin-bottom: 100px;
 }
+
+
+
+
+
+
 .tame_lanee{
     font-weight: 400;
     font-size: 20px;
+    max-width: 300px
 }
 .tame_lane_do1{
     margin-bottom: 75px;
@@ -246,11 +255,11 @@ body{
     margin-bottom: 100px;
 }
 .tame_lane_do4{
-    margin-bottom: 100px;
+    margin-bottom: 75px;
 }
 .tame_lane_do5{
     margin-bottom: 100px;
-} 
+}
 .tuda{
     position: absolute;
     top: 390px;
@@ -258,7 +267,7 @@ body{
 }
 .suda{
     position: absolute;
-    top: 1000px;
+    top: 900px;
     left: 1430px;  
 }
 .datas{
