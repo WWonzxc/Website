@@ -183,13 +183,6 @@ body{
 
 /* Ну наконец ПОРТФОЛИО */
 
-.int_2{
-    height: 100vh;
-    background: url(../img/intr.png) no-repeat center;
-    background-size: cover;
-    padding-top: 255px;
-    padding-bottom: 500px;
-}
 .portfolio_s{
     font-weight: 700;
     font-size: 36px;
@@ -240,28 +233,20 @@ body{
     font-size: 20px;
     max-width: 300px
 }
-.tame_lane_do1{
-    padding-bottom: 55px;
-}
 .tame_lane_do2{
-    padding-bottom: 80px;
+    padding-bottom: 6px;
 }
 .tame_lane_do3{
-    padding-bottom: 80px;
+    padding-bottom: 8px;
 }
 .tame_lane_do4{
-    padding-bottom: 55px;
+    padding-bottom: 8px;
 }
 
 .tuda{
     position: absolute;
     top: 390px;
     text-align: left;
-}
-.suda{
-    position: absolute;
-    top: 800px;
-    left: 1025px; 
 }
 .datas{
     font-weight: 700;
